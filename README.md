@@ -1,0 +1,2 @@
+# Video-Calling-Website-Landing-Page
+Hi. Thanks for checking out my website and design work. I’m a freelance web designer/developer. I live and work in Xi'an, China.  Quick notes, in case you don’t feel like reading all of this: I design and build websites.  #About this work  This is a video calling website landing page using Html5, CSS3 and simple javascript.  Feel free ask me any question and rate my work in comment box. Thanks
